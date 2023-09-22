@@ -3,7 +3,6 @@ D:\PRG\Examples\Examole001_HelloConsole\bin\Debug\net6.0\Examole001_HelloConsole
 D:\PRG\Examples\Examole001_HelloConsole\bin\Debug\net6.0\Examole001_HelloConsole.runtimeconfig.json
 D:\PRG\Examples\Examole001_HelloConsole\bin\Debug\net6.0\Examole001_HelloConsole.dll
 D:\PRG\Examples\Examole001_HelloConsole\bin\Debug\net6.0\Examole001_HelloConsole.pdb
-D:\PRG\Examples\Examole001_HelloConsole\obj\Debug\net6.0\Examole001_HelloConsole.csproj.AssemblyReference.cache
 D:\PRG\Examples\Examole001_HelloConsole\obj\Debug\net6.0\Examole001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
 D:\PRG\Examples\Examole001_HelloConsole\obj\Debug\net6.0\Examole001_HelloConsole.AssemblyInfoInputs.cache
 D:\PRG\Examples\Examole001_HelloConsole\obj\Debug\net6.0\Examole001_HelloConsole.AssemblyInfo.cs
