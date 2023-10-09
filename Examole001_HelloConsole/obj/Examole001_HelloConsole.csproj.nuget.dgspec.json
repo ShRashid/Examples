@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\PRG\\Examples\\Examole001_HelloConsole\\Examole001_HelloConsole.csproj": {}
+    "D:\\PRG\\Examples\\Examole001_HelloConsole\\Examole001_HelloConsole.csproj": {}
   },
   "projects": {
-    "d:\\PRG\\Examples\\Examole001_HelloConsole\\Examole001_HelloConsole.csproj": {
+    "D:\\PRG\\Examples\\Examole001_HelloConsole\\Examole001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PRG\\Examples\\Examole001_HelloConsole\\Examole001_HelloConsole.csproj",
+        "projectUniqueName": "D:\\PRG\\Examples\\Examole001_HelloConsole\\Examole001_HelloConsole.csproj",
         "projectName": "Examole001_HelloConsole",
-        "projectPath": "d:\\PRG\\Examples\\Examole001_HelloConsole\\Examole001_HelloConsole.csproj",
+        "projectPath": "D:\\PRG\\Examples\\Examole001_HelloConsole\\Examole001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\r.f.sharafutdinov\\.nuget\\packages\\",
-        "outputPath": "d:\\PRG\\Examples\\Examole001_HelloConsole\\obj\\",
+        "outputPath": "D:\\PRG\\Examples\\Examole001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\r.f.sharafutdinov\\AppData\\Roaming\\NuGet\\NuGet.Config"
